@@ -65,7 +65,7 @@ These images are included to better illustrate the functionality and user interf
    ![User Login Page](UI_Screenshots/login.png)  
    Description: The login page where users can securely log into their accounts.
 
-2. **User Registration Page**  
+. **User Registration Page**  
    ![User Registration Page](UI_Screenshots/register.png)  
    Description: The registration page where new users can create an account.
  
