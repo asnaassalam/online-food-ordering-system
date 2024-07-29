@@ -44,3 +44,30 @@ This project provides a comprehensive solution for restaurants to manage their m
 - **Database**: MySQL
 - **Others**: Bootstrap for UI components, jQuery for DOM manipulation
 
+## Screenshots
+
+These images are included to better illustrate the functionality and user interface of the Online Food Order System and it showcase different parts of the application, including the customer interface, admin panel, and key features.
+
+### Admin Interface Screenshots
+
+1. **Menu Management**  
+   ![Menu Management](UI_Screenshots/admin_menu.png)  
+   Description: The interface for adding, updating, and removing menu items and categories.
+   
+2. **Order Summary Page**  
+   ![Order Summary Page](UI_Screenshots/admin_orders.png)  
+   Description: The page displaying a summarized table of all orders for quick overview.
+
+
+### User Interface Screenshots
+
+1. **User Login Page**  
+   ![User Login Page](UI_Screenshots/login.png)  
+   Description: The login page where users can securely log into their accounts.
+
+2. **User Registration Page**  
+   ![User Registration Page](UI_Screenshots/register.png)  
+   Description: The registration page where new users can create an account.
+ 
+
+   
