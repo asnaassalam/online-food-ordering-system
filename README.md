@@ -21,8 +21,13 @@ This project provides a comprehensive solution for restaurants to manage their m
 - **Browse Menu Items**: View detailed descriptions and prices of menu items.
 - **Add Items to Cart**: Easily add and modify items in the shopping cart.
 - **Place Orders**: Complete your order with multiple payment options.
+- **Order Tracking**: 
+  - **Track Order Status**: View real-time updates on the status of your orders, including whether it’s pending, in preparation, out for delivery, or completed.
+  - **Order Details**: Access detailed information about your orders, including item names, quantities, and delivery address.
+  - **Order History**: Review past orders, view details, and track the status of previous orders.
 - **Leave Feedback and Reviews**: Share your dining experience with reviews and ratings.
 - **Table Reservation**: Reserve a table for your visit by selecting a date, time, and number of guests.
+- **Profile Settings**: Update personal information such as email, password, and contact details.
 
 ### Admin Features
 
