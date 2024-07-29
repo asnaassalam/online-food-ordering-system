@@ -16,18 +16,21 @@ This project provides a comprehensive solution for restaurants to manage their m
 ## Features
 
 ### Customer Features
-- User registration and login
-- Browse menu items with categories
-- Add items to the cart
-- Place orders with multiple payment options
-- Leave feedback and reviews
+
+- **User Registration and Login**: Secure account creation and access.
+- **Browse Menu Items**: View detailed descriptions and prices of menu items.
+- **Add Items to Cart**: Easily add and modify items in the shopping cart.
+- **Place Orders**: Complete your order with multiple payment options.
+- **Leave Feedback and Reviews**: Share your dining experience with reviews and ratings.
+- **Table Reservation**: Reserve a table for your visit by selecting a date, time, and number of guests.
 
 ### Admin Features
-- Manage menu items and categories
-- View and manage customer orders
-- Handle table reservations
-- View customer feedback
-- Manage user accounts
+
+- **Manage Menu Items and Categories**: Add, update, and remove menu items and categories.
+- **View and Manage Customer Orders**: Access and process customer orders efficiently.
+- **Handle Table Reservations**: View and manage table reservations made by customers.
+- **View Customer Feedback**: Monitor and respond to customer reviews.
+- **Manage User Accounts**: Administer user accounts and permissions.
 
 ## Technology Stack
 
