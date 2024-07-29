@@ -6,7 +6,7 @@ An efficient and user-friendly online food ordering system designed to enhance t
 
 - [About](#about)
 - [Features](#features)
-- [Built With](#built-with)
+- [Technology Stack](#technology-stack)
 - [Screenshots](#screenshots)
 
 ## About
@@ -37,7 +37,7 @@ This project provides a comprehensive solution for restaurants to manage their m
 - **View Customer Feedback**: Monitor and respond to customer reviews.
 - **Manage User Accounts**: Administer user accounts and permissions.
 
-## Built With
+## Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
