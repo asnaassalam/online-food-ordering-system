@@ -1,5 +1,7 @@
 # Online Food Order System for Restaurant
 
+**Note: This repository is a work in progress and not yet finished. There are ongoing developments and some features may not be fully implemented.**
+
 An efficient and user-friendly online food ordering system designed to enhance the dining experience for customers and streamline operations for restaurant admins.
 
 ## Table of Contents
