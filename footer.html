@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--Logo Font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lexend+Zetta:wght@100..900&family=Nova+Round&display=swap"
+      rel="stylesheet"
+    />
+    <title>Footer</title>
+    <style>
+      footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px 0;
+      }
+      a {
+        color: white;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: none;
+      }
+      .footer-top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+      .footer-links {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        font-size: 18px;
+        align-items: center;
+      }
+      .footer-links a {
+        transition: color 0.3s ease-in-out;
+      }
+      .footer-links a:hover {
+        color: #f71900;
+      }
+
+      .footer-social-icons a {
+        color: #fff;
+        background-color: #fb4a36;
+        text-decoration: none;
+        margin-right: 10px;
+        font-size: 25px;
+        border-radius: 50%;
+        padding: 10px 17px 10px 17px;
+      }
+      .footer-logo {
+        font-size: 30px;
+        color: #f71900;
+        font-family: nova round;
+        font-weight: 500;
+      }
+
+      .footer-bottom {
+        text-align: center;
+        font-size: 22px;
+      }
+    </style>
+  </head>
+  <body>
+    <footer>
+      <div class="footer-top">
+        <div class="footer-logo">
+          <img src="../images/logo.png" alt="Logo" />
+          Flavour Fiesta
+        </div>
+        <div class="footer-links">
+          <div><a href="index.php">Home</a></div>
+          <div><a href="menu.php">Menu</a></div>
+          <div><a href="index.php#Reservation">Reservation</a></div>
+          <div><a href="index.php#About-Us">About Us</a></div>
+          <div><a href="index.php#Contact">Contact Us</a></div>
+        </div>
+        <div class="footer-social-icons">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 Powered by Asna. All Rights Reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,141 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #fef0e8;
+  font-family: "Poppins", sans-serif;
+
+  margin: 0;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #ffbda1;
+  color: #1d1818;
+  overflow: auto;
+  position: relative;
+  min-height: 100vh;
+}
+
+.sidebar ul li a {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color: #1d1818;
+  transition: background-color 0.3s;
+}
+.sidebar ul li a.active {
+background-color:#ee7149;
+}
+
+.sidebar ul li a:hover {
+background-color: #f4a178;
+}
+.status {
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 450;
+}
+
+.status-pending {
+  color: black;
+}
+
+.status-processing {
+  color: #FFBF00;
+}
+
+.status-completed {
+  color: green;
+}
+
+.status-cancelled {
+  color: red;
+}
+
+.status-ontheway {
+  color: blue;
+}
+
+table {
+  width: 100%;
+  border: 2px solid #ffc9b3;
+  border-radius: 5px;
+  font-size: 17px;
+  text-align: center;
+  cursor: pointer;
+}
+
+table th,
+table td {
+  padding: 12px 15px;
+  border: 2px solid #ffc9b3;
+  border-radius: 5px;
+}
+
+table th {
+  background-color: #fdd9c9;
+}
+
+table tr:nth-of-type(even) {
+  background-color: #fce9e2;
+}
+
+table tr:hover {
+  background-color: #fdd9c9;
+}
+
+.header {
+  padding: 10px;
+  background-color: #fbdac7;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.search-bar {
+  margin: 40px 0 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.search-bar select,
+.search-bar button {
+  padding: 10px;
+  margin-right: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid #fdd9c9;
+  cursor: pointer;
+  outline: none;
+}
+
+.search-bar button {
+  background-color: #fb4a36;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.search-bar button:hover {
+  background-color: #fbdac7;
+  color: #fb4a36;
+  border: 1px solid #fb4a36;
+}
+#viewbtn{
+  padding: 4px 6px 4px 6px;
+  font-size: 16px;
+  border-radius: 4px;
+  background-color: #fbdac7;
+  color: #fb4a36;
+  border: 2px solid #fb4a36;
+  font-weight: 450;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.3s ease;
+}
+#viewbtn:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-top: 120px;
+  background-color: red;
+  font-family: poppins;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.card-title,
+.card-text {
+  text-align: center;
+}
+
+section {
+  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+section:nth-child(odd) {
+  background-color: #feead4;
+  /* Set background color for odd sections */
+}
+
+section:nth-child(even) {
+  background-color: #ffe4c2;
+  /* Set background color for even sections */
+}
+
+.button-container p {
+  font-size: 20px;
+  margin-left: 15px;
+  font-weight: 400;
+  color: #d92420;
+}
+
+.addItemBtn {
+  background-color: #fb4a36;
+  border: none;
+  color: white;
+  text-align: center;
+  padding: 10px 15px 10px 15px;
+  font-size: 15px;
+  border-radius: 8px;
+  cursor: pointer;
+
+}
+.disabled-btn {
+  cursor: not-allowed;
+    pointer-events: none;
+  
+}
+.card-body {
+  position: relative;
+  /* Ensure that the .button-container is positioned relative to this */
+  height: 300px;
+  /* Fixed height */
+  overflow: hidden;
+  /* Hide overflow content */
+  padding-bottom: 20px;
+  /* Space for the button-container */
+}
+.card-status{
+  color: red;
+  text-align: center;
+  font-size: 1.3em;
+}
+
+.button-container {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background-color: #fcafa7;
+  padding: 10px 8px 10px 8px;
+  border-radius: 8px;
+  gap: 15px;
+  bottom: 25px;
+  position: absolute;
+  transform: translateX(-50%);
+  /* Offset by half its width to ensure centering */
+  width: 90%;
+  left: 50%;
+}
+
+/* Responsive adjustments for medium to large screens */
+@media (min-width: 768px) and (max-width: 991px) {}
