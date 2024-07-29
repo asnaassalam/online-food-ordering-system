@@ -37,10 +37,19 @@ This project provides a comprehensive solution for restaurants to manage their m
 - **View Customer Feedback**: Monitor and respond to customer reviews.
 - **Manage User Accounts**: Administer user accounts and permissions.
 
-## Technology Stack
+### Built With
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
-- **Database**: MySQL
-- **Others**: Bootstrap for UI components, jQuery for DOM manipulation
+- **Frontend**: 
+  - <i class="fas fa-html5"></i> HTML
+  - <i class="fas fa-css3"></i> CSS
+  - <i class="fab fa-js"></i> JavaScript
+  - <i class="fab fa-bootstrap"></i> Bootstrap
+  - <i class="fab fa-jquery"></i> jQuery
+
+- **Backend**:
+  - <i class="fab fa-php"></i> PHP
+
+- **Database**:
+  - <i class="fas fa-database"></i> MySQL
+
 
