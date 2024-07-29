@@ -50,15 +50,24 @@ These images are included to better illustrate the functionality and user interf
 
 ### Admin Interface Screenshots
 
-**Menu Management**  
-1. ![Menu Management](UI_Screenshots/admin_menu.png)  
+1. **Menu Management**  
+   ![Menu Management](UI_Screenshots/admin_menu.png)  
    Description: The interface for adding, updating, and removing menu items and categories.
    
-2. **Manage Orders**  
-   ![Manage Orders](UI_Screenshots/admin_orders.png)  
-   Description: The page for viewing and processing customer orders.
+2. **Order Summary Page**  
+   ![Order Summary Page](UI_Screenshots/admin_orders.png)  
+   Description: The page displaying a summarized table of all orders for quick overview.
+
 
 ### User Interface Screenshots
 
+1. **User Login Page**  
+   ![User Login Page](UI_Screenshots/login.png)  
+   Description: The login page where users can securely log into their accounts.
+
+2. **User Registration Page**  
+   ![User Registration Page](UI_Screenshots/register.png)  
+   Description: The registration page where new users can create an account.
+ 
 
    
