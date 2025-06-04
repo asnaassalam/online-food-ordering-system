@@ -13,6 +13,7 @@ An efficient and user-friendly online food ordering system designed to enhance t
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
   - [Access Instructions](#access-instructions)
+- [License](#license)  
 - [Author](#author)  
 
 
@@ -148,6 +149,11 @@ Example registration details:
      http://localhost/online-food-ordering-system/index.php
 
 After logging in, you can browse the menu, add items to your cart, place orders, and view your order history.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+Please give appropriate credit by mentioning **Asna Assalam** when using this code.
 
 ## Author
 
